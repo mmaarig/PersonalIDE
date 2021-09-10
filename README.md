@@ -1,5 +1,6 @@
 # PersonalIDE
-Created for mid-term project + presentation
-Created Integrated Development Environment on Python
+Created for mid-term project + presentation.
+Now it is an open source project.
+Created Integrated Development Environment on Python.
 Using Tkinter, subprocess, filedialog libraries.
-Using text editor and test output
+Using text editor and test output.
